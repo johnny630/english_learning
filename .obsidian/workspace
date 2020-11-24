@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "english/enhance.md",
-            "mode": "source"
+            "file": "english/dried.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english/enhance.md",
+                "file": "english/dried.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "english/fabric.md",
-    "english/drying.md",
     "english/dried.md",
-    "english/furniture.md",
+    "english/cannabis.md",
+    "english/praise.md",
+    "english/enhance.md",
+    "english/dry.md",
     "english/covering.md",
     "english/Untitled.md",
-    "english/dry.md",
-    "english/dries.md",
-    "english/honour.md"
+    "Untitled.md",
+    "english/fabric.md",
+    "english/drying.md"
   ]
 }
