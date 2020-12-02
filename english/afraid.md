@@ -1,4 +1,5 @@
 # afraid
+☆
 adjective
 /əˈfreɪd/
 
